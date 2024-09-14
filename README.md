@@ -1,7 +1,5 @@
 # proj
 
-test
-
 ## Project setup
 
 ```
